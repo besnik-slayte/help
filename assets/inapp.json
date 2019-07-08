@@ -290,5 +290,9 @@
   "Component_DateRangePicker": {
     "name": "Date Range Picker",
     "description": "Pick two dates, begin- and end-date, by navigating back and forth and clicking on the dates of choice. You can also directly enter the dates using your keyboard - Simply type the date in the format 'MMM D, YYY', e.g. Sep 1, 1985. See below:\n[img height=451 width=564]http://support-static.slayte.com/component-daterangepicker-format.gif[/img]"
+  },
+  "Session_View_Default": {
+    "name": "Default View",
+    "description": "Mark a custom view as default for a event to automatically load it when viewing the list of sessions in the event."
   }
 }
